@@ -42,16 +42,16 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,Russian HD 720 (18+)
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1, Penthouse Passion (18+)
-http://85.12.193.140:81/udp/239.99.17.156:1234
-#EXTINF:-1, Penthouse Quickes (18+)
-http://85.12.193.140:81/udp/239.99.17.237:1234
 #EXTINF:-1,Teen HD 720 (18+)
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,AST TV 1 HD (18+)
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,AST TV 2 HD (18+)
 https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1, Penthouse Quickes (18+)
+http://85.12.193.140:81/udp/239.99.17.237:1234
+#EXTINF:-1, Penthouse Passion (18+)
+http://85.12.193.140:81/udp/239.99.17.156:1234
 #EXTINF:-1, Blue Hustler
 http://178.124.183.14:80/hls/CH_BLUEHUSTLER/variant.m3u8
 #EXTINF:-1, Blue Hustler [SD]
@@ -84,4 +84,3 @@ http://176.101.224.21:8080/udp/233.166.172.253:1234
 http://37.195.250.64:4022/udp/239.1.20.60:1234
 #EXTINF:-1, Visit-X TV HD 720 (18+)
 http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
-
