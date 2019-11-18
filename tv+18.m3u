@@ -44,6 +44,48 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1,Teen HD 720 (18+)
 http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1,XCafe
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+#EXTINF:-1,XCafe 1
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+#EXTINF:-1,XCafe 2
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+#EXTINF:-1,XCafe 3
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+#EXTINF:-1,XCafe 4
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+#EXTINF:-1,XCafe Anal
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+#EXTINF:-1,XCafe Asian
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
+#EXTINF:-1,XCafe Blowjob
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
+#EXTINF:-1,XCafe Ebony
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF:-1,XCafe Erotic
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF:-1,Sōng shì 1
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+#EXTINF:-1,HOT
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
+#EXTINF:-1,Pandora Pink HD
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
+#EXTINF:-1,Amazing TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF:-1,Midnight TV
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1,Rainbow TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+#EXTINF:-1,Viki
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF:-1,Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTINF:-1,Private TV HD (18+)
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,Super One HD (18+)
+http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,AST TV 1 HD (18+)
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,AST TV 2 HD (18+)
@@ -72,15 +114,6 @@ http://217.15.48.100:15000/udp/225.77.53.92:5000
 http://213.234.9.46:7088/udp/239.1.12.14:1234
 #EXTINF:-1,Dorcel TV (18+)
 http://188.35.9.11:21141/udp/214h
-#EXTINF:-1,Super One HD (18+)
-http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1,Private TV HD (18+)
-http://188.35.9.5:10005/stolen/153a/imposter.rar
-#EXTINF:-1,Zest TV (18+)
-http://188.35.9.5:10007/stolen/214g/parasite.install
-#EXTINF:-1, Hustler HD (18+)
-http://176.101.224.21:8080/udp/233.166.172.253:1234
-#EXTINF:-1, Erox (18+)
-http://37.195.250.64:4022/udp/239.1.20.60:1234
-#EXTINF:-1, Visit-X TV HD 720 (18+)
-http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+#EXTINF:-1,Blue Hustler (24:00-04:00) (18+)+)
+http://212.12.194.10/hustler/live.m3u8
+
