@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1,Любимое.TV
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:-1,U.HD
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1, НСТ
