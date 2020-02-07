@@ -1,119 +1,61 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1, Оружие
-http://46.32.68.167/s/live/804/86.169.51.136/0/0.m3u8
+#EXTINF:-1, 100 automoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1, Оружие
 http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
-#EXTINF:-1, Outdoor
-http://46.32.68.167/s/live/815/86.169.51.136/0/0.m3u8
-#EXTINF:-1, Диалоги о рыбалке
-http://188.43.116.250:8080/dialogi_o_ribalke/index.m3u8
 #EXTINF:-1, Охота и рыбалка
 http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
 #EXTINF:-1, Oхотник и Рыболов HD
 http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
+#EXTINF:0 tvg-name="Охота и рыбалка", Охота и рыбалка
+http://duga.life:8080/ch288/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Диалоги о рыбалке HD", Диалоги о рыбалке HD
+http://duga.life:8080/ch0091/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Морской HD", Морской HD
+http://duga.life:8080/ch0116/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1,Eurosport 1
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1,Eurosport 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://31.133.47.1:8800/eurosport_2
 #EXTINF:-1, Setanta Sports 1
 http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1, Setanta Sports 1
-http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1, Setanta Sports 2
 http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
-#EXTINF:-1, Setanta Sports 2
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1, Setanta Sports HD
 http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
 #EXTINF:-1, Setanta Sports+ HD
 http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:-1,НТВ
-http://persik.by/stream/9521/425129/10.m3u8
 #EXTINF:-1, НТВ+ Спорт
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,КХЛ HD
-http://persik.by/stream/9521/425129/10242.m3u8
-#EXTINF:-1,КХЛ ТВ
-http://persik.by/stream/9521/425129/604.m3u8
-#EXTINF:-1,МАТЧ! HD
-http://46.32.68.167/s/live/939/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Матч!
-http://31.40.128.20/hls/003_match_tv.m3u8
-#EXTINF:-1,Матч!
-http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1,Матч!
 https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
-#EXTINF:-1,Матч!
-http://persik.by/stream/9521/425129/276.m3u8
-#EXTINF:-1,Матч
-http://persik.by/stream/9521/425129/1077.m3u8
-#EXTINF:-1,Матч! Арена
-http://46.32.68.167/s/live/506/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Матч! Арена
-http://persik.by/stream/9521/425129/261.m3u8
-#EXTINF:-1,МАТЧ! Боец
-http://178.57.121.38:8080/boec/index.m3u8
-#EXTINF:-1,МАТЧ! Боец
-http://46.32.68.167/s/live/509/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Матч! Игра
-http://46.32.68.167/s/live/507/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Матч! Игра
-http://persik.by/stream/9521/425129/10270.m3u8
-#EXTINF:-1,Матч! Наш спорт
-http://persik.by/stream/9521/425129/10271.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://persik.by/stream/9521/425129/346.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://persik.by/stream/9521/425129/10266.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://persik.by/stream/9521/425129/10217.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-http://persik.by/stream/9521/425129/10267.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://persik.by/stream/9521/425129/10218.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
-http://persik.by/stream/9521/425129/10268.m3u8
-#EXTINF:-1,Матч! Премьер
-http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
-#EXTINF:-1,Матч Премьер HD
-http://persik.by/stream/9521/425129/10294.m3u8
-#EXTINF:-1,Матч Премьер HD
-http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
-#EXTINF:-1, Матч! Планета
+#EXTINF:-1,Матч! Планета
 http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8?version=2
-#EXTINF:-1, МАТЧ! Страна
-http://46.32.68.167/s/live/510/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Наш футбол
-http://persik.by/stream/9521/425129/284.m3u8
-#EXTINF:-1,НАШ Футбол
-http://persik.by/stream/9521/425129/10264.m3u8
-#EXTINF:-1,Спорт 1
-http://persik.by/stream/9521/425129/270.m3u8
-#EXTINF:-1,Спорт 2
-http://persik.by/stream/9521/425129/309.m3u8
-#EXTINF:-1,Спорт 2 Украина
-http://persik.by/stream/9521/425129/91.m3u8
-#EXTINF:-1,Спорт 2 Украина
-http://persik.by/stream/9521/425129/144.m3u8
-#EXTINF:-1,КХЛ
-http://persik.by/stream/9521/425129/485.m3u8
-#EXTINF:-1, КХЛ
-http://178.124.183.5/hls/36H3IDE2WF/variant.m3u8?version=2
-#EXTINF:-1,КХЛ
-http://178.57.121.38:8080/khl/index.m3u8
-#EXTINF:-1,КХЛ
-http://46.32.68.167/s/live/503/86.169.51.136/0/0.m3u8
-#EXTINF:-1,MMA Time
-http://persik.by/stream/9521/425129/10704.m3u8
-#EXTINF:-1, Драйв
-http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8?version=2
-#EXTINF:-1, 100 automoto.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1, Fast & FunBox
-http://188.190.222.51/FastNFunBOX/mpegts
-#EXTINF:-1, Eurosport
-http://31.133.47.1:8800/eurosport
-#EXTINF:-1, Eurosport 2
-http://31.133.47.1:8800/eurosport_2
-#EXTINF:-1, EX
-http://46.32.68.167/s/live/812/86.169.51.136/0/0.m3u8
-#EXTINF:-1, FightBox
-http://188.190.222.51/FightBOX/mpegts
+#EXTINF:-1 tvg-name="Матч!",Матч!
+http://46.165.2.202:8080/matchtv/index.m3u8
+#EXTINF:0 tvg-name="Старт HD", Старт HD
+http://duga.life:8080/ch0134/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Арена HD", Арена HD
+http://duga.life:8080/ch0109/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Игра HD", Игра HD
+http://duga.life:8080/ch0110/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Премьер HD", Премьер HD
+http://duga.life:8080/ch0111/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD", Матч! Футбол 3 HD
+http://duga.life:8080/ch0115/video.m3u8?token=KIZqoLR8y3
+#EXTINF:0 tvg-name="Extreme Sport", Extreme Sport
+http://duga.life:8080/ch218/video.m3u8?token=KIZqoLR8y3
 
+#EXTINF:-1 tvg-name="Setanta Sports HD",Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2|User-Agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Setanta Sports+ HD",Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2|User-Agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Setanta Спортs Eurasia HD",Setanta Спортs Eurasia HD
+http://178.124.183.12/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 tvg-name="Setanta Спортs HD",Setanta Спортs HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1 tvg-name="Setanta Спортs+ HD",Setanta Спортs+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
