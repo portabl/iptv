@@ -1,9 +1,13 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1,U.HD  19.04.2020!
+#EXTINF:-1,ULTO 19.04.2020!
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,U.HD
+http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Шокирующее
 http://195.88.126.168:8008/play/a0cm/index.m3u8
+#EXTINF:-1,НСТ
+https://plbl.m9.lfstrm.tv/nctv/normal/1/index.m3u8
 #EXTINF:-1,НСТ
 http://178.217.72.66/225.201.2.200/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Остросюжетное HD
@@ -50,6 +54,8 @@ http://109.95.47.162:8080/Bollywood_HD/mono.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1,Hollywood
 http://109.95.47.249:12284/831
+#EXTINF:-1,Hollywood
+https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
 #EXTINF:-1,Hollywood
 http://178.217.72.66/225.201.2.76/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Paramount Channel
@@ -228,7 +234,13 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/domashnij-plus-2.m3u
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/domashnij-plus-4.m3u8
 #EXTINF:-1,Домашний +7
 http://94.125.54.238:999/udp/239.191.254.23:13343
+#EXTINF:-1,KVN-HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
 
+#EXTINF:-1, Русский роман
+http://188.35.9.5:10007/stolen/127k/parasite.install
+#EXTINF:-1,РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1,РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 1 HD
@@ -352,10 +364,16 @@ http://176.125.104.234:4022/udp/233.221.253.34:1234
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntv-mir.m3u8
 #EXTINF:-1,НТВ Право
 http://109.95.47.249:12437/406
+#EXTINF:-1,НТВ Право
+http://185.29.255.170:8005/play/a01y
 #EXTINF:-1,НТВ Сериал
 http://109.95.47.249:12437/408
+#EXTINF:-1,НТВ Сериал
+http://185.29.255.170:8005/play/a01z
 #EXTINF:-1,НТВ Стиль
 http://109.95.47.249:12437/415
+#EXTINF:-1,НТВ Стиль
+http://185.29.255.170:8005/play/a023
 #EXTINF:-1,НТВ Хит
 http://109.95.47.249:12437/412
 #EXTINF:-1,Наш Кинороман HD
@@ -418,14 +436,8 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Интер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1,НТН
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:0,НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,Сонце
@@ -442,6 +454,10 @@ http://185.189.184.7:8888/2plus2/index.m3u8?token=test
 http://185.189.184.7:8888/EnterFilm/index.m3u8?token=test
 #EXTINF:-1,Інтер
 http://185.189.184.7:8888/Inter/index.m3u8?token=test
+#EXTINF:-1,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,Мега
